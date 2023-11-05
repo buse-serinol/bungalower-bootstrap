@@ -1,0 +1,85 @@
+* {
+    font-family: 'PT Serif', serif;
+   
+
+}
+
+.section-bg{
+    background-color: #fbe3e6;
+}
+
+.bg-pink {
+    background-color: #f1aeb5;
+}
+
+.bg-grey{
+    background-color: rgb(217, 207, 207);
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.border-radius {
+    border-radius: 20px;
+}
+
+.mt {
+    margin-top: 70px;
+}
+
+.img-wh {
+    width: 400px;
+    height: 400px;
+}
+
+.bg-transparent{
+    background-color: transparent;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;;
+}
+
+.card-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 10px;      
+}
+
+.bungalov-img-3{
+    width: 430px;
+    height: 250px;
+    margin-left: 5px;
+
+}
+
+.bungalov-img-2{
+    width: 430px;
+    height: 260px;
+    margin-left: 5px;
+
+}
+
+.bungalov-img-4{
+    width: 430px;
+    height: 260px;
+    margin-left: 5px;
+}
+
+
+.filter:hover{
+  filter:brightness(70%);
+    cursor: pointer;
+    transition: .4s;
+}
+
+.transform:hover{
+    transform: translateX(10px);
+}
+
+.o{
+    overflow: hidden;
+}
+
+
+
