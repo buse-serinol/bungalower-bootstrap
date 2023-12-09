@@ -37,7 +37,7 @@ Feel free to customize the content and styles according to your preferences.
 
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
 
-![]()
+![](image/project-gif.gif)
 
 ## License
 
